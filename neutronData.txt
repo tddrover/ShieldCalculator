@@ -1,0 +1,2 @@
+ID Number   Direction Changes      Random Motions              Status
+1                   3                   5                     Destroyed
